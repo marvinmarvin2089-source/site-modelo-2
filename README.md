@@ -11,3 +11,5 @@ Segundo modelo de site.
 ## 📸 Preview do projeto 😉
 
 <img src="./img/modelo de site 2.png">
+
+ https://marvinmarvin2089-source.github.io/site-modelo-2/
