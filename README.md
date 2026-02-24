@@ -10,4 +10,4 @@ Site modelo simples.
 
 ## 📸 Preview do projeto 😉
 
-<img src="./">
+<img src="./img/modelo de site 2.png">
