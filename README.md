@@ -1,5 +1,5 @@
 ## 🚀 Funcionalidades
-Site modelo simples.
+Segundo modelo de site.
 - HTML5  
 - CSS3
 
